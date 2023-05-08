@@ -1,0 +1,22 @@
+.left-nav {
+    /* background-image: url('../../assets/images/main.jpg'); */
+    background-color: rgb(217, 220, 232);
+  }
+.left-nav .left-nav-header {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+.left-nav .left-nav-header img {
+    width: 40px;
+    height: 40px;
+    margin: 0 15px;
+}
+.left-nav .left-nav-header h1 {
+    font-size: 40px;
+    font-family: Brush Script MT;
+    margin-bottom: 0;
+}
+  
+
+

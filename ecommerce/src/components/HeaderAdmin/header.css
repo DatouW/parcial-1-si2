@@ -1,0 +1,18 @@
+.header {
+    min-height: 80px;
+    background-color: #fff;
+  }
+  
+  .header .header-top {
+    color: white;
+    font-size: 15px;
+    height: 80px;
+    line-height: 80px;
+    padding-right: 30px;
+    text-align: right;
+    /* border-bottom: 1px solid rgb(102, 41, 13); */
+  }
+  
+  .header .header-top span {
+    margin-right: 10px;
+  }
